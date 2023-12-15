@@ -1,0 +1,11 @@
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\BUS\bin\Debug\BUS.dll
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\BUS\bin\Debug\BUS.pdb
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\BUS\bin\Debug\DAL.dll
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\BUS\bin\Debug\DTO.dll
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\BUS\bin\Debug\DAL.pdb
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\BUS\bin\Debug\DTO.pdb
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\BUS\obj\Debug\BUS.dll
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\BUS\obj\Debug\BUS.pdb

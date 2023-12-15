@@ -1,0 +1,9 @@
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\DAL\bin\Debug\DAL.dll
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\DAL\bin\Debug\DAL.pdb
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\DAL\bin\Debug\DTO.dll
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\DAL\bin\Debug\DTO.pdb
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\DAL\obj\Debug\DAL.dll
+C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\QLNH\DAL\obj\Debug\DAL.pdb
